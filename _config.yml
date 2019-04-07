@@ -14,10 +14,10 @@ prof: assets/images/prof.png
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://aaronmthomas.com/resume.pdf
+resume-external: false
+resume-url: resume.pdf
 
-url: https://aaronmthomas.netlify.com
+url: https://aaronmthomas.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
