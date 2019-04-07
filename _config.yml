@@ -111,4 +111,5 @@ compress_html:
         - development
         - stage
 
+include: ["_redirects"]
 exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]
