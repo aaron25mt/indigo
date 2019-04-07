@@ -14,7 +14,7 @@ layout: page
 	<li>Python (Django)</li>
 	<li>Web Development (HTML5, CSS3, PHP, Responsive Design)</li>
 	<li>CSS Frameworks (Bootstrap)</li>
-	<li>CSS Preprocessor (SASS/LESS)</li>
+	<li>CSS Preprocessors (SASS/LESS)</li>
 	<li>Database Management (MySQL, MongoDB, Apache Cassandra, Neo4j)</li>
 	<li>Version Control (Git)</li>
 	<li>Test-Driven Development</li>
