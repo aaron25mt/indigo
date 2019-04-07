@@ -2,45 +2,28 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image]({{ site.url }}/{{ site.prof }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hi, I'm Aaron! I'm currently a Software Engineer. I graduated with a Bachelor's of Science in Computer Science from the University of Missouri - Columbia in Spring '19. In my free time, I enjoy practicing mixed martial arts (MMA) and playing video games.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Java (Spring, Groovy, Gradle)</li>
+	<li>JavaScript (NodeJS, ReactJS, PugJS)</li>
+	<li>Python (Django)</li>
+	<li>Web Development (HTML5, CSS3, PHP, Responsive Design)</li>
+	<li>CSS Frameworks (Bootstrap)</li>
+	<li>CSS Preprocessor (SASS/LESS)</li>
+	<li>Database Management (MySQL, MongoDB, Apache Cassandra, Neo4j)</li>
+	<li>Version Control (Git)</li>
+	<li>Test-Driven Development</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/lokucrazy/DungeonsAndDisastersServer">DungeonsAndDisastersServer</a></li>
+	<li><a href="https://github.com/aaron25mt/ReadReceiptFS">ReadReceiptFS</a></li>
+	<li><a href="https://www.npmjs.com/package/metrotransit-nodetrip">MetroTransit-NodeTrip</a></li>
 </ul>
