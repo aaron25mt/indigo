@@ -2,8 +2,6 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.prof }})
-
 <p>Hi, I'm Aaron! I'm currently a Software Engineer. I graduated with a Bachelor's of Science in Computer Science from the University of Missouri - Columbia in Spring '19. In my free time, I enjoy practicing mixed martial arts (MMA) and playing video games.</p>
 
 <h2>Skills</h2>
