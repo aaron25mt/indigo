@@ -8,8 +8,8 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/prof.png
-prof: assets/images/prof.png
+picture: assets/images/prof.jpg
+prof: assets/images/prof.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
